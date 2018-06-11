@@ -24,11 +24,11 @@ After that, there are repeating fields of 36 bytes.
 16 Bytes Authenticity Number (A)
 16 Bytes Proposed Authenticty Number (P)
 
-NSSSAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPP
+NSSSIAAAAAAAAAAAAAAAAPPPPPPPPPPPPPPPP
 
 
 | 1 Byte  | 3 Byte | 1 Byte  | 16 Byte |16 Byte |
-| ------------- | ------------- |
+| ------------- | ------------- |------------- | ------------- |------------- |
 | Network Number | Serial Number  | Instructions | Authenticity Number  | Proposed Authenticty Number |
 
 
